@@ -13,10 +13,10 @@
     
     
 1. (Required) XSS
-  - [ ] Summary: 
+  - [x] Summary: 
     - Vulnerability types: XSS
     - Tested in version: Word Press 4.2
-    - Fixed in version: 
+    - Fixed in version: patched WordPress 4.6.1
   - [ ] GIF Walkthrough: 
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
