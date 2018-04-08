@@ -17,7 +17,7 @@
     - Vulnerability types: XSS
     - Tested in version: Word Press 4.2
     - Fixed in version: patched WordPress 4.6.1
-  - [ ] GIF Walkthrough: 
+  - [x] GIF Walkthrough: <img src='XSS.gif' title='WordPress Username Enumeration' width='' alt='' />
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
