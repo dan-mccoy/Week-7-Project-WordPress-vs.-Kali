@@ -18,14 +18,16 @@
     - Tested in version: Word Press 4.2
     - Fixed in version: patched WordPress 4.6.1
   - [x] GIF Walkthrough: <img src='XSS.gif' title='WordPress Username Enumeration' width='' alt='' />
-  - [ ] Steps to recreate: 
+  - [x] Steps to recreate: Appon leaving a comment there is a vunribulity where if you enter code in you can get a link to pop up in the comment section who may proceed to embed cross site scripting on their post. This may be used for privilege escalation if users of admin privileges were to view the pages.
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-    1. (Required) Vulnerability Name
-  - [ ] Summary: 
-    - Vulnerability types: 
-    - Tested in version: 
-    - Fixed in version:
+    
+    
+1. (Required) Vulnerability Name
+  - [x] Summary: 
+    - Vulnerability types: CSRF
+    - Tested in version: 4.2
+    - Fixed in version: 4.2.1
   - [ ] GIF Walkthrough: 
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
