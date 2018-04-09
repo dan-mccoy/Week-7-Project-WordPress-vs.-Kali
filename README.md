@@ -28,8 +28,8 @@
     - Vulnerability types: CSRF
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
+  - [x] GIF Walkthrough:  <img src='CSRF.gif' title='WordPress Username Enumeration' width='' alt='' />
+  - [x] Steps to recreate: When trying to reply to a comment when you enter in the script into the comment will enter in to an infinate loop of saying you have already commented what you said, untill the admin deletes that comment you will not be able to go back to the page.  
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
     
